@@ -5,7 +5,7 @@ A simple Django-based web application to visualize and explore CSV data from Exc
 ## Features
 
 - **Upload Excel Files**: Accepts `.xls`, `.xlsx` formats.
-- **CSV Conversion**: Automatically converts Excel data into CSV format for processing.
+- **CSV Conversion**: Automatically converts Excel data into CSV format for processing using ML.
 - **Data Visualization**: Provides graphical representation of data using charts (e.g., bar, line, scatter plots).
 - **Data Filtering & Sorting**: Users can filter and sort data directly in the web interface.
 - **Pagination Support**: Handles large datasets with paginated tables.
